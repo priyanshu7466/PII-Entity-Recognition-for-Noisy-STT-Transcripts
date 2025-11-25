@@ -1,0 +1,2106 @@
+{
+  "stress_0001": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 36,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 46,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 55,
+      "end": 64,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 81,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0002": [],
+  "stress_0003": [],
+  "stress_0004": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0005": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 48,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 52,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 76,
+      "end": 92,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0006": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 90,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0007": [],
+  "stress_0008": [],
+  "stress_0009": [],
+  "stress_0010": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 47,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0011": [],
+  "stress_0012": [],
+  "stress_0013": [],
+  "stress_0014": [
+    {
+      "start": 43,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0015": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0016": [],
+  "stress_0017": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 74,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0018": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0019": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0020": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 47,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0021": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 88,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0022": [],
+  "stress_0023": [],
+  "stress_0024": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0025": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 76,
+      "end": 94,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0026": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 73,
+      "end": 87,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0027": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0028": [],
+  "stress_0029": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 57,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 74,
+      "end": 90,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0030": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 45,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 88,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0031": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 76,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0032": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 76,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0033": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 85,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0034": [],
+  "stress_0035": [],
+  "stress_0036": [],
+  "stress_0037": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0038": [],
+  "stress_0039": [],
+  "stress_0040": [],
+  "stress_0041": [],
+  "stress_0042": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 76,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0043": [],
+  "stress_0044": [],
+  "stress_0045": [],
+  "stress_0046": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 88,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0047": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0048": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 88,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0049": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0050": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0051": [],
+  "stress_0052": [],
+  "stress_0053": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0054": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0055": [],
+  "stress_0056": [],
+  "stress_0057": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 73,
+      "end": 92,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0058": [],
+  "stress_0059": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 86,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0060": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 53,
+      "end": 60,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0061": [],
+  "stress_0062": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0063": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 27,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 32,
+      "end": 36,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 37,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 46,
+      "end": 51,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 68,
+      "end": 86,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0064": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0065": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0066": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 53,
+      "end": 62,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 79,
+      "end": 95,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0067": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 71,
+      "end": 88,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0068": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 87,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0069": [],
+  "stress_0070": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0071": [],
+  "stress_0072": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0073": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 71,
+      "end": 90,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0074": [],
+  "stress_0075": [],
+  "stress_0076": [],
+  "stress_0077": [],
+  "stress_0078": [
+    {
+      "start": 43,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0079": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 71,
+      "end": 86,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0080": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 35,
+      "end": 39,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 91,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0081": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 73,
+      "end": 92,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0082": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 47,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 73,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0083": [],
+  "stress_0084": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 61,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 78,
+      "end": 93,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0085": [],
+  "stress_0086": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0087": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0088": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0089": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 28,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 33,
+      "end": 37,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 43,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 47,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 70,
+      "end": 87,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0090": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0091": [],
+  "stress_0092": [],
+  "stress_0093": [],
+  "stress_0094": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0095": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 71,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0096": [
+    {
+      "start": 43,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0097": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0098": [
+    {
+      "start": 42,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0099": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 48,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 72,
+      "end": 91,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0100": []
+}
